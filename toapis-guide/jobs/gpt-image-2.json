@@ -1,0 +1,8 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2",
+  "prompt": "Square editorial food photograph for a recipe website: a small ceramic plate of handmade lemon tart, golden crust, glossy lemon filling, a silver dessert fork, exactly two mint leaves, warm side light on a cream linen tablecloth, realistic textures, elegant cafe photography. No people, no text, no watermark.",
+  "size": "1024x1024",
+  "n": 1,
+  "run_id": "1019-mcp-image-gpt-image-2"
+}

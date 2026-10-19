@@ -1,3 +1,21 @@
+<!-- toapis-community-guide -->
+# Lower-cost image API guide · ToAPIs community fork
+
+This fork adds an independently maintained optional image client, original examples and a dated price guide. The upstream MCP provider registry/defaults below are preserved; full MCP tool registration and end-to-end app acceptance are pending.
+
+[English guide](toapis-guide/README.md) · [中文教程](toapis-guide/README_zh-CN.md) · [Case prices, ascending](toapis-guide/PRICING.md) · [Matching model](https://go2v.toapis.com/1019_mcp_g)
+
+![Three models and prices](toapis-guide/social/image-comparison-en.png)
+
+| Tested image model | Rate |
+|---|---:|
+| gpt-image-2(VIP), low / 1K | $0.0019/image |
+| gpt-image-2, 1K | $0.015/image |
+| gpt-image-2.5-flare, high / 1K | $0.0225/image |
+
+2026-10-19 configured rates; original outputs are real, individual image task settlement was unavailable. Run the standalone recipe from `toapis-guide/`. This is a guide contribution, not an upstream-endorsed edition of the app.
+<!-- /toapis-community-guide -->
+
 # MCP Image Generator 🍌
 
 > Generate and edit images from Codex, Cursor, Claude Code, or any MCP client. mcp-image adds visual direction to your request before sending it to Gemini, OpenAI, or BytePlus Seedream.
